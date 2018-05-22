@@ -2,4 +2,4 @@
 
 This demo illustrates using turbine to pull hystrix.stream from several services. Hystrix Dashboard is used to visualize the streams.
 
-image::dashboard.png[]
+image::images/dashboard.png[]
